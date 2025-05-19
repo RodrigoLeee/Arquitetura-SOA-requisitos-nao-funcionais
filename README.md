@@ -16,7 +16,13 @@ A arquitetura foi projetada incorporando os princípios da norma **ISO 25010**, 
 
 ## Diagrama de Arquitetura SOA
 
+<div align="center">
+<sub>Figura 1 - Arquitetura Arquitetura Orientada a Serviços (SOA)</sub><br>
+
 ![Diagrama de Arquitetura SOA](img/arquiteturaSOA.png)
+
+<sup>Fonte: Material produzido pelos autores (2025) </sup>
+</div>
 
 O diagrama acima representa a arquitetura SOA do sistema de reservas de voos, organizada nas seguintes camadas:
 
